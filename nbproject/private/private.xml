@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServer.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsService.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServiceImpl.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServicePrinting.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServiceFactory.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServiceDescriptor.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsServiceListener.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/Rfc2782.java</file>
+            <file>file:/home/ehansen/src/mDns-client/src/com/edhkle/mdns/client/MDnsClient.java</file>
+        </group>
+    </open-files>
+</project-private>
